@@ -88,6 +88,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .text {
   font-size: 16px;
@@ -143,6 +144,7 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 .portfolio-list {
   list-style-type: none;
@@ -172,11 +174,11 @@ footer {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.footer-logo > span {
+.footer-logo > .design {
   color: #f4f4fd;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
